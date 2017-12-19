@@ -1,0 +1,22 @@
+{
+  "name": "technogram",
+  "version": "0.1.0",
+  "description": "clon de instagram para fines educativos",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo Bthelmy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gigablack/technogram.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gigablack/technogram/issues"
+  },
+  "homepage": "https://github.com/gigablack/technogram#readme",
+  "dependencies": {
+    "materialize-css": "^0.100.2"
+  }
+}
