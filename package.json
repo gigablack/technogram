@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/gigablack/technogram#readme",
   "dependencies": {
+    "express": "^4.16.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
     "materialize-css": "^0.100.2"
   }
 }
